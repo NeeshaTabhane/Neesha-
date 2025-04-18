@@ -43,7 +43,7 @@ nav ul a:hover{
 .item img:hover{
   transform: scale(1.03);
 }
-.item button{
+.footer button{
   background-color:burlywood;
   color: aliceblue;
 }
